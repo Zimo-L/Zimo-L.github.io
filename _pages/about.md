@@ -1,4 +1,4 @@
----
+<img width="480" alt="DenseNet121-CBAM" src="https://github.com/Ruiyang-061X/Ruiyang-061X.github.io/assets/48590144/a2673584-870a-4014-873f-cb2c784019e8">---
 permalink: /
 title: ""
 excerpt: ""
@@ -23,7 +23,7 @@ I received my bachelor degree from School of Computer Science, Fudan University 
 
 # 📝 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Image Processing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Image Processing</div><img src='images/DenseNet121-CBAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DenseNet121-CBAM for detecting COVID-19 in chest X-ray](https://github.com/Ruiyang-061X/DIP-Project)
