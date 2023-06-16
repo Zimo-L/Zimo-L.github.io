@@ -23,13 +23,17 @@ I received my bachelor degree from School of Computer Science, Fudan University 
 
 # 📝 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Image Processing</div><img src='images/DenseNet121-CBAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Image Processing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DenseNet121-CBAM for detecting COVID-19 in chest X-ray](https://github.com/Ruiyang-061X/DIP-Project)
 - DenseNet121-CBAM can be used to detect COVID-19 in chest X-ray
 - It is DenseNet121 equipped with CBAM(Convlution Block Attention Module)
 - Can classify a chest X-ray into Covid, No-Convid and Normal and spot the area of disease
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 </div>
 </div>
