@@ -19,11 +19,11 @@ redirect_from:
 I received my bachelor degree from School of Computer Science, Fudan University in 2021.6. After graduation, I worked as a Backend Development Engineer in Meituan, Shanghai for 2 years. Now I have quit from Meituan and try to seek my path in the academy world. My research interests lie in Computer Vison and related topics.
 
 # 🔥 News
-- *2023.06*: &nbsp; preparing for the application of Msc in SG and HK. 
+- *2023.06*: &nbsp; preparing for the application of MsC in SG and HK. 
 
 # 📝 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Image Processing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Image Processing</div><img src='images/DenseNet121-CBAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DenseNet121-CBAM for detecting COVID-19 in chest X-ray](https://github.com/Ruiyang-061X/DIP-Project)
@@ -34,12 +34,36 @@ I received my bachelor degree from School of Computer Science, Fudan University 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduation Thesis</div><img src='images/Attention_Enhanced_Spatial-temporal_Feature_Pyramid_Network.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video Instance Segmentation by Spatial-Temporal Feature Pyramid Enhanced by Attention Mechanism](https://www.overleaf.com/project/60545eebd9b9ca22a8282dac)
+- Encode the video into a spatio-temporal feature pyramid
+- Further introduce channel attention mechanism and spatio-temporal attention mechanism
+- Results on Youtbu-VIS surpass those of previous work
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Signal Processing</div><img src='images/DSP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Speech Recognition Using Convolutional Neural Network
+- Collect speech dataset of 20 chinese words from about 40 students in the class
+- Extract feature through FFT(Fast Fourier Transform) and train a CNN to classify a speech into 20 words
+- Get 100% accuracy at the final test by teacher using his own voice, and get a A score of this class
+
+</div>
+</div>
+
 # 💻 Work Experiences
 - *2021.07 - 2023.06*, Backend Development Engineer, Meituan, Shanghai
 
 # 🎖 Honors and Awards
-- *2018&2019* Third Class Scholarship for Outstanding Students, Fudan University
 - *2019* Second Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- *2018&2019* Third Class Scholarship for Outstanding Students, Fudan University
+- *2016* Province First Price of Chinese Mathematical Olympiad (CMO)
+- *2014&2015* First Price of National Olympiad in Informatics in Provinces (NOIP)
 
 # 📖 Educations
 - *2017.09 - 2021.06*, undergraduate student in School of Computer Science, Fudan University
