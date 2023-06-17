@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+# 👋 About Me
 I received my bachelor degree from School of Computer Science, Fudan University in 2021.6. After graduation, I worked as a Backend Development Engineer in Meituan, Shanghai for 2 years. Now I have quit from Meituan and try to seek my path in the academy world. My research interests lie in Computer Vison and related topics.
 
 # 🔥 News
@@ -56,10 +56,10 @@ Speech Recognition Using Convolutional Neural Network
 </div>
 </div>
 
-# 💻 Work Experiences
+# 👷‍♂️ Work Experiences
 - *2021.07 - 2023.06*, Backend Development Engineer, Meituan, Shanghai
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2019* Second Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2018&2019* Third Class Scholarship for Outstanding Students, Fudan University
 - *2016* Province First Price of Chinese Mathematical Olympiad (CMO)
@@ -67,3 +67,7 @@ Speech Recognition Using Convolutional Neural Network
 
 # 📖 Educations
 - *2017.09 - 2021.06*, undergraduate student in School of Computer Science, Fudan University
+
+# ✨	Interests
+- I enjoy playing table tennis🏓, a member of school team in my primary school hhh
+- Like walking around parks🏞️
