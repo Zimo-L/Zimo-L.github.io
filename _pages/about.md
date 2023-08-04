@@ -18,6 +18,8 @@ redirect_from:
 # 👋 About Me
 I received my bachelor degree from School of Computer Science, Fudan University in 2021.6. After graduation, I worked as a Backend Development Engineer in Meituan, Shanghai for 2 years. Now I have quit from Meituan and try to seek my path in the academy world. My research interests lie in Computer Vison and related topics.
 
+<font color="#dd0000">**WeChat: 17717073617. Free free to contact me if you need a free labour for your research. :).**</font>
+
 # 🔥 News
 - *2023.06*: &nbsp; preparing for the application of MsC in SG and HK. 
 
