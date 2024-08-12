@@ -67,6 +67,48 @@
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+            <tr onmouseout="ul3d_stop()" onmouseover="ul3d_start()">
+              <td style="padding:20px;width:25%;vertical-align:middle">
+                <div class="one">
+                  <div class="two" id='ul3d_image'><video  width=100% muted autoplay loop>
+                  <img src="images/UL3D.jpg" width=100%>
+                  Your browser does not support the video tag.
+                  </video></div>
+                  <img src='images/UL3D.jpg' width=100%>
+                </div>
+                <script type="text/javascript">
+                  function ul3d_start() {
+                    document.getElementById('ul3d_image').style.opacity = "1";
+                  }
+          
+                  function ul3d_stop() {
+                    document.getElementById('ul3d_image').style.opacity = "0";
+                  }
+                  ul3d_stop()
+                </script>
+              </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://arxiv.org/abs/2407.08569">
+                  <span class="papertitle">Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection</span>
+                </a>
+                <br>
+                <strong>Ruiyang Zhang</strong>,
+                Hu Zhang,
+                Hang Yu,
+                <a href="https://www.zdzheng.xyz/">Zhedong Zheng</a>
+                <br>
+                <em>Preprint</em>, 2024
+                <br>
+                <a href="https://arxiv.org/abs/2408.00619">[Paper]</a>
+                /
+                <a href="https://github.com/Ruiyang-061X/UL3D">[Code]</a>
+                <p></p>
+                <p>
+                We harness uncertainty learning to mitigate the negative influence of inaccurate pseudo labels in unsupervised 3D object detection. Specifically, we estimate coordinate level uncerainty and then utilize the learned uncertainty to regularize the self-learning process.
+                </p>
+              </td>
+            </tr>
+            
             <tr onmouseout="lise_stop()" onmouseover="lise_start()">
               <td style="padding:20px;width:25%;vertical-align:middle">
                 <div class="one">
